@@ -1,0 +1,4 @@
+Install Kali to termux one click
+
+curl -LO https://gist.github.com/OrdinaryEnder/b397bf44557018fbe44f12224482aff4/raw/4aec5a61087039e2b918bbebd9d35ae7d4f1a714/kali.sh && bash kali.sh
+
